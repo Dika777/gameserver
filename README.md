@@ -1,0 +1,2 @@
+# gameserver
+host game
